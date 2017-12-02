@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=title\ author
+comment0.target=Book(java.lang.String,\ Person)
+comment1.params=
+comment1.target=java.lang.String\ getTitle()
+numComments=2
